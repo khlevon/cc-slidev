@@ -1,3 +1,10 @@
+---
+name: Diagram Design
+description: |
+  Guidance for creating multi-platform diagrams (Mermaid, PlantUML, Excalidraw) via semantic redesign rather than mechanical conversion. Use when the user discusses diagram design philosophy, choosing between platforms, or adapting diagrams across tools.
+version: 0.1.0
+---
+
 # Diagram Design Philosophy
 
 ## Core Principle: Semantic Redesign, Not Mechanical Conversion
